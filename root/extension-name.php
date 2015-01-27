@@ -279,10 +279,10 @@ class AnsPress_Ext_{%= safe_name %}
  * @return void
  */
 
-function {%= safe_name %}() {
-    $discounts = new Categories_For_AnsPress();
+function anspress_ext_{%= safe_name %}() {
+    $anspress_ext_{%= safe_name %} = new AnsPress_Ext_{%= safe_name %}();
 }
-add_action( 'plugins_loaded', '{%= safe_name %}s' );
+add_action( 'plugins_loaded', 'anspress_ext_{%= safe_name %}' );
 
 /**
  * Register activatin hook
