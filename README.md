@@ -1,6 +1,10 @@
-# anspress-boilerplate-extension
+# AnsPress boilerplate extension
 
-> Generate AnsPress extensions base source codes
+This is a AnsPress extension base code generator grunt template. You can use this template to generate source codes of AnsPress extension.
+Simply answer the questions when prompted and your extension will be built by grunt.
+
+> NOTE: This is not a AnsPress extension but it is a AnsPress extension generator, it means you can't use this project file directly in WordPress
+
 
 [grunt-init]: http://gruntjs.com/project-scaffolding
 
