@@ -39,7 +39,7 @@ git clone git@github.com:wp3/anspress-boilerplate-extension.git %USERPROFILE%/.g
 grunt-init anspress-boilerplate-extension
 ```
 
-## Credit
+## Support
 
 Have question ? feel free to ask here: http://anspress.io/questions/ask/
 
