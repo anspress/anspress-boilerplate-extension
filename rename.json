@@ -1,4 +1,5 @@
 {
     "extension-name.php"                   	: "{%= slug %}.php",
-    "languages/extension-name.pot"         	: "languages/{%= slug %}.pot"
+    "theme/css/extension-name.css"         	: "theme/{%= slug %}.css",
+    "theme/less/extension-name.less"        : "theme/{%= slug %}.less"
 }
